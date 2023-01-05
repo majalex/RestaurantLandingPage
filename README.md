@@ -1,3 +1,12 @@
+# Restaurant Landing Page 
+
+This is a code repository for a Modern UI/UX Restaurant website. I'm using ReactJs and CSS. In this project I mastered:
+
+- CSS BEM Model,
+- React file and folder structure,
+- soft and pleasant animations.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
