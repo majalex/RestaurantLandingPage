@@ -6,6 +6,7 @@ This is a code repository for a Modern UI/UX Restaurant website. I'm using React
 - React file and folder structure,
 - soft and pleasant animations.
 
+### [Live Site](https://restaurant-landing-page-majalex.vercel.app/)
 
 # Getting Started with Create React App
 
